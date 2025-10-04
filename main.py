@@ -26,7 +26,7 @@ if prompt:
     st.chat_message("human").write(prompt)
 
     with st.spinner("AI正在思考中，请稍等..."):
-        response = get_chat_response(prompt, st.session_state["memory"])
+        response = get_chat_response(prompt, st.session_state["memory"],openai_api_key)
     msg = {"role": "ai", "content": response}
     st.session_state["messages"].append(msg)
     st.chat_message("ai").write(response)
