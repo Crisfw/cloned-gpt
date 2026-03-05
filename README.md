@@ -1,5 +1,6 @@
 
-<img width="1007" height="698" alt="chrome_kHfdROfuKU" src="https://github.com/user-attachments/assets/33f2cf49-f553-4d87-a4ea-7cc383d683ee" />
+<img width="1055" height="693" alt="chrome_U5sTqvv8G4" src="https://github.com/user-attachments/assets/48efa5f4-c01b-4a60-b3f8-9c409631183f" />
+
 ChatGPT Clone (Streamlit Version)
 This project is a lightweight, responsive ChatGPT Clone built using the Streamlit framework and the OpenAI API. It provides a clean, user-friendly interface for interacting with Large Language Models (LLMs) without the overhead of a complex backend.
 
